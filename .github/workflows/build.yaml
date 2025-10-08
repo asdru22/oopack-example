@@ -22,12 +22,17 @@ jobs:
           java-version: '21'
 
       - name: Install local oopack JAR
-        run: mvn install:install-file \
-          -Dfile=oopack-1.0.0.jar \
-          -DgroupId=com.asdru \
-          -DartifactId=oopack \
-          -Dversion=1.0.0 \
-          -Dpackaging=jar
+        run: |
+            echo "Installing local oopack jar..."
+            pwd
+            ls -l
+            mvn install:install-file \
+              -Dfile=${{ github.workspace }}/oopack-1.0.0.jar \
+              -DgroupId=com.asdru \
+              -DartifactId=oopack \
+              -Dversion=1.0.0 \
+              -Dpackaging=jar
+      
 
       - name: Build with Maven
         run: mvn clean package
