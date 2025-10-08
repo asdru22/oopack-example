@@ -17,6 +17,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.asdru</groupId>
+            <artifactId>oopack</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>2.12.1</version>
