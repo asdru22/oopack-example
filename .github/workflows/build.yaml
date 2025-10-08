@@ -1,0 +1,71 @@
+name: Generate and Upload Zip Artifact
+
+on:
+  release:
+    types: [created]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Build with Maven
+        run: mvn clean package
+
+      - name: Extract version from pom.xml
+        id: extract_version
+        run: |
+          VERSION=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout)
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Run the Java program
+        run: java -jar target/*-jar-with-dependencies.jar
+
+      - name: Rename generated ZIP files with version
+        run: |
+          VERSION=${{ steps.extract_version.outputs.version }}
+
+          # Rename datapack
+          if ls datapack-*.zip 1> /dev/null 2>&1; then
+            for f in datapack-*.zip; do
+              mv "$f" "${f%.zip}-$VERSION.zip"
+            done
+          else
+            echo "No datapack zip found"
+          fi
+
+          # Rename resourcepack if present
+          if ls resourcepack-*.zip 1> /dev/null 2>&1; then
+            for f in resourcepack-*.zip; do
+              mv "$f" "${f%.zip}-$VERSION.zip"
+            done
+          else
+            echo "No resourcepack zip found"
+          fi
+
+      - name: Upload ZIPs to GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VERSION=${{ steps.extract_version.outputs.version }}
+
+          # Upload the renamed files
+          for f in datapack-*-$VERSION.zip resourcepack-*-$VERSION.zip; do
+            if [ -f "$f" ]; then
+              gh release upload ${{ github.event.release.tag_name }} "$f" --clobber
+            else
+              echo "File $f does not exist, skipping upload."
+            fi
+          done

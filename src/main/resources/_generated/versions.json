@@ -1,0 +1,2707 @@
+{
+  "created_at": "2025-10-08T14:40:27.653423900Z",
+  "versions": {
+    "1.21.10-rc1": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4555
+    },
+    "1.21.9": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4554
+    },
+    "1.21.9-rc1": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4553
+    },
+    "1.21.9-pre4": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4552
+    },
+    "1.21.9-pre3": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4551
+    },
+    "1.21.9-pre2": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4550
+    },
+    "1.21.9-pre1": {
+      "datapackVersion": 87,
+      "datapackVersionMinor": 1,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4549
+    },
+    "25w37a": {
+      "datapackVersion": 87,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4547
+    },
+    "25w36b": {
+      "datapackVersion": 86,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 68,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4546
+    },
+    "25w36a": {
+      "datapackVersion": 86,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 68,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4545
+    },
+    "25w35a": {
+      "datapackVersion": 85,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 67,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4542
+    },
+    "25w34b": {
+      "datapackVersion": 84,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 66,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4540
+    },
+    "25w34a": {
+      "datapackVersion": 84,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 66,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4539
+    },
+    "25w33a": {
+      "datapackVersion": 83,
+      "datapackVersionMinor": 1,
+      "resourcepackVersion": 65,
+      "resourcepackVersionMinor": 2,
+      "dataVersion": 4538
+    },
+    "25w32a": {
+      "datapackVersion": 83,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 65,
+      "resourcepackVersionMinor": 1,
+      "dataVersion": 4536
+    },
+    "25w31a": {
+      "datapackVersion": 82,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 65,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4534
+    },
+    "1.21.8": {
+      "datapackVersion": 81,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 64,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4440
+    },
+    "1.21.8-rc1": {
+      "datapackVersion": 81,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 64,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4439
+    },
+    "1.21.7": {
+      "datapackVersion": 81,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 64,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4438
+    },
+    "1.21.7-rc2": {
+      "datapackVersion": 81,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 64,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4437
+    },
+    "1.21.7-rc1": {
+      "datapackVersion": 80,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4436
+    },
+    "1.21.6": {
+      "datapackVersion": 80,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4435
+    },
+    "1.21.6-rc1": {
+      "datapackVersion": 80,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4434
+    },
+    "1.21.6-pre4": {
+      "datapackVersion": 80,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4433
+    },
+    "1.21.6-pre3": {
+      "datapackVersion": 80,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4432
+    },
+    "1.21.6-pre2": {
+      "datapackVersion": 79,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4431
+    },
+    "1.21.6-pre1": {
+      "datapackVersion": 79,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 63,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4430
+    },
+    "25w21a": {
+      "datapackVersion": 78,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 62,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4429
+    },
+    "25w20a": {
+      "datapackVersion": 77,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 61,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4428
+    },
+    "25w19a": {
+      "datapackVersion": 76,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 60,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4427
+    },
+    "25w18a": {
+      "datapackVersion": 75,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 59,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4426
+    },
+    "25w17a": {
+      "datapackVersion": 74,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 58,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4425
+    },
+    "25w16a": {
+      "datapackVersion": 73,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 57,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4423
+    },
+    "25w15a": {
+      "datapackVersion": 72,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 56,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4422
+    },
+    "1.21.5": {
+      "datapackVersion": 71,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 55,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4325
+    },
+    "1.21.5-rc2": {
+      "datapackVersion": 71,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 55,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4324
+    },
+    "1.21.5-rc1": {
+      "datapackVersion": 71,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 55,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4323
+    },
+    "1.21.5-pre3": {
+      "datapackVersion": 71,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 55,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4322
+    },
+    "1.21.5-pre2": {
+      "datapackVersion": 71,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 55,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4321
+    },
+    "1.21.5-pre1": {
+      "datapackVersion": 70,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 55,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4320
+    },
+    "25w10a": {
+      "datapackVersion": 70,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 54,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4319
+    },
+    "25w09b": {
+      "datapackVersion": 69,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 53,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4318
+    },
+    "25w09a": {
+      "datapackVersion": 69,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 53,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4317
+    },
+    "25w08a": {
+      "datapackVersion": 68,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 53,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4316
+    },
+    "25w07a": {
+      "datapackVersion": 67,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 52,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4315
+    },
+    "25w06a": {
+      "datapackVersion": 66,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 51,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4313
+    },
+    "25w05a": {
+      "datapackVersion": 65,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 50,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4310
+    },
+    "25w04a": {
+      "datapackVersion": 64,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 49,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4308
+    },
+    "25w03a": {
+      "datapackVersion": 63,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 48,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4304
+    },
+    "25w02a": {
+      "datapackVersion": 62,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 47,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4298
+    },
+    "1.21.4": {
+      "datapackVersion": 61,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4189
+    },
+    "1.21.4-rc3": {
+      "datapackVersion": 61,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4188
+    },
+    "1.21.4-rc2": {
+      "datapackVersion": 61,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4186
+    },
+    "1.21.4-rc1": {
+      "datapackVersion": 61,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4184
+    },
+    "1.21.4-pre3": {
+      "datapackVersion": 61,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4183
+    },
+    "1.21.4-pre2": {
+      "datapackVersion": 61,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4182
+    },
+    "1.21.4-pre1": {
+      "datapackVersion": 60,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 46,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4179
+    },
+    "24w46a": {
+      "datapackVersion": 60,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 45,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4178
+    },
+    "24w45a": {
+      "datapackVersion": 59,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 44,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4177
+    },
+    "24w44a": {
+      "datapackVersion": 58,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 43,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4174
+    },
+    "1.21.3": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4082
+    },
+    "1.21.2": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4080
+    },
+    "1.21.2-rc2": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4079
+    },
+    "1.21.2-rc1": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4078
+    },
+    "1.21.2-pre5": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4077
+    },
+    "1.21.2-pre4": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4076
+    },
+    "1.21.2-pre3": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 42,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4075
+    },
+    "1.21.2-pre2": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 41,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4074
+    },
+    "1.21.2-pre1": {
+      "datapackVersion": 57,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 41,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4073
+    },
+    "24w40a": {
+      "datapackVersion": 56,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 40,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4072
+    },
+    "24w39a": {
+      "datapackVersion": 55,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 39,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4069
+    },
+    "24w38a": {
+      "datapackVersion": 54,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 39,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4066
+    },
+    "24w37a": {
+      "datapackVersion": 53,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 38,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4065
+    },
+    "24w36a": {
+      "datapackVersion": 52,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 37,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4063
+    },
+    "24w35a": {
+      "datapackVersion": 51,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 36,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4062
+    },
+    "24w34a": {
+      "datapackVersion": 50,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 36,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4060
+    },
+    "24w33a": {
+      "datapackVersion": 49,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 35,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4058
+    },
+    "1.21.1": {
+      "datapackVersion": 48,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3955
+    },
+    "1.21.1-rc1": {
+      "datapackVersion": 48,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3954
+    },
+    "1.21": {
+      "datapackVersion": 48,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3953
+    },
+    "1.21-rc1": {
+      "datapackVersion": 48,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3952
+    },
+    "1.21-pre4": {
+      "datapackVersion": 48,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3951
+    },
+    "1.21-pre3": {
+      "datapackVersion": 48,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3950
+    },
+    "1.21-pre2": {
+      "datapackVersion": 47,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3949
+    },
+    "1.21-pre1": {
+      "datapackVersion": 46,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3948
+    },
+    "24w21b": {
+      "datapackVersion": 45,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3947
+    },
+    "24w21a": {
+      "datapackVersion": 45,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 34,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3946
+    },
+    "24w20a": {
+      "datapackVersion": 44,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 33,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3944
+    },
+    "24w19b": {
+      "datapackVersion": 43,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 33,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3942
+    },
+    "24w19a": {
+      "datapackVersion": 43,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 33,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3941
+    },
+    "24w18a": {
+      "datapackVersion": 42,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 33,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3940
+    },
+    "1.20.6": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3839
+    },
+    "1.20.6-rc1": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3838
+    },
+    "1.20.5": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3837
+    },
+    "1.20.5-rc3": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3836
+    },
+    "1.20.5-rc2": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3835
+    },
+    "1.20.5-rc1": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3834
+    },
+    "1.20.5-pre4": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 32,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3832
+    },
+    "1.20.5-pre3": {
+      "datapackVersion": 41,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 31,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3831
+    },
+    "1.20.5-pre2": {
+      "datapackVersion": 40,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 31,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3830
+    },
+    "1.20.5-pre1": {
+      "datapackVersion": 39,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 31,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3829
+    },
+    "24w14a": {
+      "datapackVersion": 38,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 31,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3827
+    },
+    "24w13a": {
+      "datapackVersion": 37,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 31,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3826
+    },
+    "24w12a": {
+      "datapackVersion": 36,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 30,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3824
+    },
+    "24w11a": {
+      "datapackVersion": 35,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 29,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3823
+    },
+    "24w10a": {
+      "datapackVersion": 34,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 28,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3821
+    },
+    "24w09a": {
+      "datapackVersion": 33,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 28,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3819
+    },
+    "24w07a": {
+      "datapackVersion": 32,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 26,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3817
+    },
+    "24w06a": {
+      "datapackVersion": 31,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 26,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3815
+    },
+    "24w05b": {
+      "datapackVersion": 30,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 25,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3811
+    },
+    "24w05a": {
+      "datapackVersion": 30,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 25,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3809
+    },
+    "24w04a": {
+      "datapackVersion": 29,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 24,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3806
+    },
+    "24w03b": {
+      "datapackVersion": 28,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 24,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3805
+    },
+    "24w03a": {
+      "datapackVersion": 28,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 24,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3804
+    },
+    "23w51b": {
+      "datapackVersion": 27,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3802
+    },
+    "23w51a": {
+      "datapackVersion": 27,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3801
+    },
+    "1.20.4": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3700
+    },
+    "1.20.4-rc1": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3699
+    },
+    "1.20.3": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3698
+    },
+    "1.20.3-rc1": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3697
+    },
+    "1.20.3-pre4": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3696
+    },
+    "1.20.3-pre3": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3695
+    },
+    "1.20.3-pre2": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3694
+    },
+    "1.20.3-pre1": {
+      "datapackVersion": 26,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 22,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3693
+    },
+    "23w46a": {
+      "datapackVersion": 25,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 21,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3691
+    },
+    "23w45a": {
+      "datapackVersion": 24,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 21,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3690
+    },
+    "23w44a": {
+      "datapackVersion": 23,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 20,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3688
+    },
+    "23w43b": {
+      "datapackVersion": 22,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 20,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3687
+    },
+    "23w43a": {
+      "datapackVersion": 22,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 20,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3686
+    },
+    "23w42a": {
+      "datapackVersion": 21,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 19,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3684
+    },
+    "23w41a": {
+      "datapackVersion": 20,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3681
+    },
+    "23w40a": {
+      "datapackVersion": 19,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3679
+    },
+    "1.20.2": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3578
+    },
+    "1.20.2-rc2": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3577
+    },
+    "1.20.2-rc1": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3576
+    },
+    "1.20.2-pre4": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3575
+    },
+    "1.20.2-pre3": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3574
+    },
+    "1.20.2-pre2": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 18,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3573
+    },
+    "1.20.2-pre1": {
+      "datapackVersion": 18,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 17,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3572
+    },
+    "23w35a": {
+      "datapackVersion": 17,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 17,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3571
+    },
+    "23w33a": {
+      "datapackVersion": 17,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 17,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3570
+    },
+    "23w32a": {
+      "datapackVersion": 17,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 17,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3569
+    },
+    "23w31a": {
+      "datapackVersion": 16,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 16,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3567
+    },
+    "1.20.1": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3465
+    },
+    "1.20.1-rc1": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3464
+    },
+    "1.20": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3463
+    },
+    "1.20-rc1": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3462
+    },
+    "1.20-pre7": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3461
+    },
+    "1.20-pre6": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3460
+    },
+    "1.20-pre5": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3458
+    },
+    "1.20-pre4": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3457
+    },
+    "1.20-pre3": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3456
+    },
+    "1.20-pre2": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3455
+    },
+    "1.20-pre1": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3454
+    },
+    "23w18a": {
+      "datapackVersion": 15,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3453
+    },
+    "23w17a": {
+      "datapackVersion": 14,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 15,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3452
+    },
+    "23w16a": {
+      "datapackVersion": 14,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 14,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3449
+    },
+    "23w14a": {
+      "datapackVersion": 13,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 14,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3445
+    },
+    "23w13a": {
+      "datapackVersion": 13,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3443
+    },
+    "23w12a": {
+      "datapackVersion": 13,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3442
+    },
+    "1.19.4": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3337
+    },
+    "1.19.4-rc3": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3336
+    },
+    "1.19.4-rc2": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3335
+    },
+    "1.19.4-rc1": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3334
+    },
+    "1.19.4-pre4": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3333
+    },
+    "1.19.4-pre3": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3332
+    },
+    "1.19.4-pre2": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3331
+    },
+    "1.19.4-pre1": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 13,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3330
+    },
+    "23w07a": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3329
+    },
+    "23w06a": {
+      "datapackVersion": 12,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3326
+    },
+    "23w05a": {
+      "datapackVersion": 11,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3323
+    },
+    "23w04a": {
+      "datapackVersion": 11,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3321
+    },
+    "23w03a": {
+      "datapackVersion": 11,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3320
+    },
+    "1.19.3": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3218
+    },
+    "1.19.3-rc3": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3217
+    },
+    "1.19.3-rc2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3216
+    },
+    "1.19.3-rc1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3215
+    },
+    "1.19.3-pre3": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3213
+    },
+    "1.19.3-pre2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3212
+    },
+    "1.19.3-pre1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3211
+    },
+    "22w46a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3210
+    },
+    "22w45a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 12,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3208
+    },
+    "22w44a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 11,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3207
+    },
+    "22w43a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 11,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3206
+    },
+    "22w42a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 11,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3205
+    },
+    "1.19.2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3120
+    },
+    "1.19.2-rc2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3119
+    },
+    "1.19.2-rc1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3118
+    },
+    "1.19.1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3117
+    },
+    "1.19.1-rc3": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3116
+    },
+    "1.19.1-rc2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3115
+    },
+    "1.19.1-pre6": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3114
+    },
+    "1.19.1-pre5": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3113
+    },
+    "1.19.1-pre4": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3112
+    },
+    "1.19.1-pre3": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3111
+    },
+    "1.19.1-pre2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3110
+    },
+    "1.19.1-rc1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3109
+    },
+    "1.19.1-pre1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3107
+    },
+    "22w24a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3106
+    },
+    "1.19": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3105
+    },
+    "1.19-rc2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3104
+    },
+    "1.19-rc1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3103
+    },
+    "1.19-pre5": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3102
+    },
+    "1.19-pre4": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3101
+    },
+    "1.19-pre3": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3100
+    },
+    "1.19-pre2": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3099
+    },
+    "1.19-pre1": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3098
+    },
+    "22w19a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3096
+    },
+    "22w18a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3095
+    },
+    "22w17a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3093
+    },
+    "22w16b": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3092
+    },
+    "22w16a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3091
+    },
+    "22w15a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3089
+    },
+    "22w14a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3088
+    },
+    "22w13a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3085
+    },
+    "22w12a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3082
+    },
+    "22w11a": {
+      "datapackVersion": 10,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 9,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 3080
+    },
+    "1.18.2": {
+      "datapackVersion": 9,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2975
+    },
+    "1.18.2-rc1": {
+      "datapackVersion": 9,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2974
+    },
+    "1.18.2-pre3": {
+      "datapackVersion": 9,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2973
+    },
+    "1.18.2-pre2": {
+      "datapackVersion": 9,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2972
+    },
+    "1.18.2-pre1": {
+      "datapackVersion": 9,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2971
+    },
+    "22w07a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2969
+    },
+    "22w06a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2968
+    },
+    "22w05a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2967
+    },
+    "22w03a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2966
+    },
+    "1.18.1": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2865
+    },
+    "1.18.1-rc3": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2864
+    },
+    "1.18.1-rc2": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2863
+    },
+    "1.18.1-rc1": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2862
+    },
+    "1.18.1-pre1": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2861
+    },
+    "1.18": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2860
+    },
+    "1.18-rc4": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2859
+    },
+    "1.18-rc3": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2858
+    },
+    "1.18-rc2": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2857
+    },
+    "1.18-rc1": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2856
+    },
+    "1.18-pre8": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2855
+    },
+    "1.18-pre7": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2854
+    },
+    "1.18-pre6": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2853
+    },
+    "1.18-pre5": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2851
+    },
+    "1.18-pre4": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2850
+    },
+    "1.18-pre3": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2849
+    },
+    "1.18-pre2": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2848
+    },
+    "1.18-pre1": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2847
+    },
+    "21w44a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2845
+    },
+    "21w43a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2844
+    },
+    "21w42a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2840
+    },
+    "21w41a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2839
+    },
+    "21w40a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2838
+    },
+    "21w39a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 8,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2836
+    },
+    "21w38a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2835
+    },
+    "21w37a": {
+      "datapackVersion": 8,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2834
+    },
+    "1.17.1": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2730
+    },
+    "1.17.1-rc2": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2729
+    },
+    "1.17.1-rc1": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2728
+    },
+    "1.17.1-pre3": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2727
+    },
+    "1.17.1-pre2": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2726
+    },
+    "1.17.1-pre1": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2725
+    },
+    "1.17": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2724
+    },
+    "1.17-rc2": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2723
+    },
+    "1.17-rc1": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2722
+    },
+    "1.17-pre5": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2721
+    },
+    "1.17-pre4": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2720
+    },
+    "1.17-pre3": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2719
+    },
+    "1.17-pre2": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2718
+    },
+    "1.17-pre1": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2716
+    },
+    "21w20a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2715
+    },
+    "21w19a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2714
+    },
+    "21w18a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2713
+    },
+    "21w17a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2712
+    },
+    "21w16a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2711
+    },
+    "21w15a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2709
+    },
+    "21w14a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2706
+    },
+    "21w13a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2705
+    },
+    "21w11a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2703
+    },
+    "21w10a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2699
+    },
+    "21w08b": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2698
+    },
+    "21w08a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2697
+    },
+    "21w07a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2695
+    },
+    "21w06a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2694
+    },
+    "21w05b": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2692
+    },
+    "21w05a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2690
+    },
+    "21w03a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2689
+    },
+    "20w51a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2687
+    },
+    "20w49a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2685
+    },
+    "20w48a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2683
+    },
+    "20w46a": {
+      "datapackVersion": 7,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2682
+    },
+    "20w45a": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 7,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2681
+    },
+    "1.16.5": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2586
+    },
+    "1.16.5-rc1": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2585
+    },
+    "1.16.4": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2584
+    },
+    "1.16.4-rc1": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2583
+    },
+    "1.16.4-pre2": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2582
+    },
+    "1.16.4-pre1": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2581
+    },
+    "1.16.3": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2580
+    },
+    "1.16.3-rc1": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2579
+    },
+    "1.16.2": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2578
+    },
+    "1.16.2-rc2": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2577
+    },
+    "1.16.2-rc1": {
+      "datapackVersion": 6,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 6,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2576
+    },
+    "1.16.2-pre3": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2575
+    },
+    "1.16.2-pre2": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2574
+    },
+    "1.16.2-pre1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2573
+    },
+    "20w30a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2572
+    },
+    "20w29a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2571
+    },
+    "20w28a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2570
+    },
+    "20w27a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2569
+    },
+    "1.16.1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2567
+    },
+    "1.16": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2566
+    },
+    "1.16-rc1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2565
+    },
+    "1.16-pre8": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2564
+    },
+    "1.16-pre7": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2563
+    },
+    "1.16-pre6": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2562
+    },
+    "1.16-pre5": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2561
+    },
+    "1.16-pre4": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2560
+    },
+    "1.16-pre3": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2559
+    },
+    "1.16-pre2": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2557
+    },
+    "1.16-pre1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2556
+    },
+    "20w22a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2555
+    },
+    "20w21a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2554
+    },
+    "20w20b": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2537
+    },
+    "20w20a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2536
+    },
+    "20w19a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2534
+    },
+    "20w18a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2532
+    },
+    "20w17a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2529
+    },
+    "20w16a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2526
+    },
+    "20w15a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2525
+    },
+    "20w14a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2524
+    },
+    "20w13b": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2521
+    },
+    "20w13a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2520
+    },
+    "20w12a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2515
+    },
+    "20w11a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2513
+    },
+    "20w10a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2512
+    },
+    "20w09a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2510
+    },
+    "20w08a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2507
+    },
+    "20w07a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2506
+    },
+    "20w06a": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2504
+    },
+    "1.15.2": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2230
+    },
+    "1.15.2-pre2": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2229
+    },
+    "1.15.2-pre1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2228
+    },
+    "1.15.1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2227
+    },
+    "1.15.1-pre1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2226
+    },
+    "1.15": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2225
+    },
+    "1.15-pre7": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2224
+    },
+    "1.15-pre6": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2223
+    },
+    "1.15-pre5": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2222
+    },
+    "1.15-pre4": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2221
+    },
+    "1.15-pre3": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2220
+    },
+    "1.15-pre2": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2219
+    },
+    "1.15-pre1": {
+      "datapackVersion": 5,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 5,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2218
+    },
+    "19w46b": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2217
+    },
+    "19w46a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2216
+    },
+    "19w45b": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2215
+    },
+    "19w45a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2214
+    },
+    "19w44a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2213
+    },
+    "19w42a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2212
+    },
+    "19w41a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2210
+    },
+    "19w40a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2208
+    },
+    "19w39a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2207
+    },
+    "19w38b": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2206
+    },
+    "19w38a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2205
+    },
+    "19w37a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2204
+    },
+    "19w36a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2203
+    },
+    "19w35a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2201
+    },
+    "19w34a": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 2200
+    },
+    "1.14.4": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1976
+    },
+    "1.14.4-pre7": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1975
+    },
+    "1.14.4-pre6": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1974
+    },
+    "1.14.4-pre5": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1973
+    },
+    "1.14.4-pre4": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1972
+    },
+    "1.14.4-pre3": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1971
+    },
+    "1.14.4-pre2": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1970
+    },
+    "1.14.4-pre1": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1969
+    },
+    "1.14.3": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1968
+    },
+    "1.14.3-pre4": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1967
+    },
+    "1.14.3-pre3": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1966
+    },
+    "1.14.3-pre2": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1965
+    },
+    "1.14.3-pre1": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1964
+    },
+    "1.14.2": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1963
+    },
+    "1.14.2-pre4": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1962
+    },
+    "1.14.2-pre3": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1960
+    },
+    "1.14.2-pre2": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1959
+    },
+    "1.14.2-pre1": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1958
+    },
+    "1.14.1": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1957
+    },
+    "1.14.1-pre2": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1956
+    },
+    "1.14.1-pre1": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1955
+    },
+    "1.14": {
+      "datapackVersion": 4,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 4,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 1952
+    }
+  }
+}
