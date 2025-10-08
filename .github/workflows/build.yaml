@@ -44,7 +44,7 @@ jobs:
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Run the Java program
-        run: java -jar target/example-1.0.0.jar
+        run: java -jar target/*-jar-with-dependencies.jar
 
       - name: Rename generated ZIP files with version
         run: |
