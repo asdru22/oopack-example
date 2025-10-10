@@ -1,26 +1,35 @@
 package com.asdru;
 
+import com.asdru.oopack.Module;
 import com.asdru.oopack.Namespace;
 import com.asdru.oopack.Project;
-import com.asdru.oopack.objects.data.Function;
-import com.asdru.oopack.util.Util;
+import com.asdru.oopack.util.Metrics;
 
 class Main {
     public static void main(String[] args) {
         Project myProject = new Project.Builder()
                 .projectName("esempio")
-                .version("latest")
-                .worldName("test esempio")
+                .version("1.21.10")
+                .worldName("OOPack test world")
                 .icon("icona")
+                .description("esempio tesi")
                 .addBuildPath("C:\\Users\\Ale\\AppData\\Roaming\\.minecraft")
                 .build();
 
-        Namespace.of("esempio");
+        Project.disableLogger();
 
-        var f = Function.f.of("say hi");
+        var namespace = Namespace.of("esempio");
 
-        Util.setOnLoad(f);
 
+        Module.register(
+                Common.class,
+                MostraRaggio.class,
+                Munizioni.class
+        );
+
+        Metrics.register();
+        namespace.exit();
         myProject.buildZip();
+        Metrics.get();
     }
 }

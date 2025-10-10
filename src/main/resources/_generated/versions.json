@@ -1,6 +1,20 @@
 {
-  "created_at": "2025-10-08T14:40:27.653423900Z",
+  "created_at": "2025-10-10T16:05:34.265772700Z",
   "versions": {
+    "25w41a": {
+      "datapackVersion": 89,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 70,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4653
+    },
+    "1.21.10": {
+      "datapackVersion": 88,
+      "datapackVersionMinor": 0,
+      "resourcepackVersion": 69,
+      "resourcepackVersionMinor": 0,
+      "dataVersion": 4556
+    },
     "1.21.10-rc1": {
       "datapackVersion": 88,
       "datapackVersionMinor": 0,
